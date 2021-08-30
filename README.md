@@ -1,0 +1,2 @@
+# MagentoThemeInitial
+MagentoThemeInitial
